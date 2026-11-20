@@ -1,0 +1,9 @@
+transformers
+accelerate
+torch
+sentence-transformers
+faiss-cpu
+gradio
+python-docx
+pypdf
+pytest
